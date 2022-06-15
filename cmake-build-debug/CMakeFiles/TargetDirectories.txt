@@ -1,0 +1,3 @@
+/Users/cheryl.resch/Downloads/SeniorProjectRepo-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cheryl.resch/Downloads/SeniorProjectRepo-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cheryl.resch/Downloads/SeniorProjectRepo-master/cmake-build-debug/CMakeFiles/SeniorProjectRepo_master.dir
